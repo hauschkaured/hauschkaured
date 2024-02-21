@@ -1,4 +1,4 @@
-### Hello!
+# Hello!
 
 I am a mathematics student at college! I have also been looking into computer science more recently, as I find it extremely
 interesting. 
@@ -11,3 +11,5 @@ interesting.
 
 ### Software
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,ai,ps,id)](https://skillicons.dev)
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=hauschkaured)](https://github.com/hauschkaured/github-readme-stats)
