@@ -4,8 +4,8 @@ I am a mathematics student at college! I have also been looking into computer sc
 interesting. 
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,latex,c)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=py,latex,c)](https://skillicons.dev)
 
 ### Things I'm Currently Looking Into:
-[![My Skills](https://skillicons.dev/icons?i=html,css,rust,R)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,rust,r)](https://skillicons.dev)
 
