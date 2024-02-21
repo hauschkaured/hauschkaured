@@ -7,6 +7,6 @@ interesting.
 [![My Skills](https://skillicons.dev/icons?i=py,latex,c)](https://skillicons.dev)]
 
 ### Things I'm Currently Looking Into:
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)]
-[![My Skills](https://skillicons.dev/icons?i=rust, R)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,rust,R)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,R)](https://skillicons.dev)]
 
