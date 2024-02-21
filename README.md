@@ -8,5 +8,4 @@ interesting.
 
 ### Things I'm Currently Looking Into:
 [![My Skills](https://skillicons.dev/icons?i=html,css,rust,R)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=rust,R)](https://skillicons.dev)]
 
