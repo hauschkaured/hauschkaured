@@ -11,6 +11,3 @@ interesting.
 
 ### Software
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,ai,ps,id)](https://skillicons.dev)
-
-### Statistics 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=hauschkaured)](https://github.com/hauschkaured/github-readme-stats)
