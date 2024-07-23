@@ -10,4 +10,4 @@ interesting.
 [![My Skills](https://skillicons.dev/icons?i=html,css,rust,r)](https://skillicons.dev)
 
 ### Software
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,ai,ps,id)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim)](https://skillicons.dev)
