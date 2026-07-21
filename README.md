@@ -1,4 +1,3 @@
 # Hello!
 
-I am a mathematics student at college! I have also been looking into computer science more recently, as I find it extremely
-interesting. 
+I like Compilers and PL! Work in progress... (aren't we all?)
